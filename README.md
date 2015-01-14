@@ -1,8 +1,13 @@
-# Casper
+## Desper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+继承自[Ghost](http://github.com/tryghost/ghost/)的默认主题`Casper`。
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+## 安装
+
+## 新功能
+### 多说评论
+`Ghost`目前的版本是不带评论功能的，所以就集成了目前国内比较流行的多说评论。
+### 代码高亮
 
 ## Copyright & License
 
